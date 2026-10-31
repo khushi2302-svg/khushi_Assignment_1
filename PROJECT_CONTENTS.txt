@@ -1,0 +1,2 @@
+CampusCare AI - complete source code, sample CSV dataset, student handbook, README, evaluation scenarios and assignment checklist.
+Start with README.md. Create .env from .env.example and add your Groq API key.

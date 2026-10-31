@@ -1,0 +1,6 @@
+scenario,question,expected_tool,expected_behavior
+Fee status,What is my current fee status?,check_fee_status,Use the selected student's fee record
+Scholarship status,What scholarship am I receiving?,check_scholarship_status,Use the selected student's scholarship record
+Payment portal failure,The payment portal failed. Can I pay on the next working day?,retrieve_policy,Explain handbook does not grant automatic extension
+Elective change,What is the process to change my elective?,retrieve_policy,Retrieve course/elective section and avoid inventing dates
+Support request,Please create a support ticket because my student portal is not working.,create_support_request,Create ticket and return ticket ID
